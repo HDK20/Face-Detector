@@ -1,2 +1,5 @@
 # Face-Detector
-A simple project for Fun.
+A simple and small project for Fun.
+
+#How to use ?
+Just run it 🙂
